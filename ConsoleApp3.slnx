@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Ejercicio28/Ejercicio28.csproj" />
+  <Project Path="Ejercicio37/Ejercicio37.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
